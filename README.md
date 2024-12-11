@@ -14,3 +14,6 @@ python clip.py --version 3 --train --save_pth model/clip_model_finetuning_v3.pth
 
 ## Only eval
 python clip.py --version 3 --model_path model/clip_model_finetuning_v3.pth
+
+## Note
+My code has a few redundant parts, but I keep them to ensure that no unexpected errors occur
